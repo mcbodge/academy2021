@@ -6,7 +6,7 @@ namespace AppDelProf
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Riprendiamo alle 16:10");
         }
     }
 }
