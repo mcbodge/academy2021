@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppDelProf", "AppDelProf\AppDelProf.csproj", "{3CF2F984-6175-4540-A4D2-DA52EA7E37CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppDiManuel", "AppDiManuel\AppDiManuel.csproj", "{9F2F8F76-85C6-4D1D-A4F8-0179F4D114D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppDiManuel", "AppDiManuel\AppDiManuel.csproj", "{9F2F8F76-85C6-4D1D-A4F8-0179F4D114D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App di Tommaso", "App di Tommaso\App di Tommaso.csproj", "{53BF6331-D937-4738-B7E8-95F149A3F993}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9F2F8F76-85C6-4D1D-A4F8-0179F4D114D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F2F8F76-85C6-4D1D-A4F8-0179F4D114D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F2F8F76-85C6-4D1D-A4F8-0179F4D114D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53BF6331-D937-4738-B7E8-95F149A3F993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BF6331-D937-4738-B7E8-95F149A3F993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BF6331-D937-4738-B7E8-95F149A3F993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BF6331-D937-4738-B7E8-95F149A3F993}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
